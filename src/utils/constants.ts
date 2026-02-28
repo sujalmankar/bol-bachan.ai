@@ -1,0 +1,2 @@
+export const MAINTENANCE_TEXT =
+  "We apologize for the inconvenience, but our site is currently undergoing maintenance. Please check back soon. We're working hard to get everything back up and running as quickly as possible. Thank you for your patience and understanding.";
